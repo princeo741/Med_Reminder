@@ -35,7 +35,7 @@
                             <p class="card-text">Dosage: 10mg</p>
                             <p class="card-text">Next Dose: 10:00 AM</p>
                             <!-- Include countdown timer for next dose if applicable -->
-                            <a href="#" class="btn btn-primary">Take Medication</a>
+                            <a href="medication_taken.jsp" class="btn btn-primary">Take Medication</a>
                         </div>
                     </div>
                     <!-- Add more medication cards as needed -->
